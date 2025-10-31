@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\pm-api.props" />
-</Project>
